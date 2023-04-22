@@ -9,3 +9,4 @@ scikit-learn
 joblib
 numpy
 scikit-surprise
+pip==22.0.4
